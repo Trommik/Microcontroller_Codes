@@ -1,7 +1,7 @@
 #include <ESP8266WiFi.h>
  
-const char* ssid = "FRITZbox Schwark 2,4 Ghz";
-const char* password = "4858035152347806";
+const char* ssid = "SSid";
+const char* password = "Password";
  
 int licht_tuer = 0; // GPIO0
 int licht_raum = 2; // GPIO2
