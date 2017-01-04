@@ -1,0 +1,9 @@
+C:\Users\Thomas.Thomas-PC\documents\visual studio 2010\Projects\LED Cube\LED Cube\bin\Release\LED Cube.exe
+C:\Users\Thomas.Thomas-PC\documents\visual studio 2010\Projects\LED Cube\LED Cube\bin\Release\LED Cube.pdb
+C:\Users\Thomas.Thomas-PC\documents\visual studio 2010\Projects\LED Cube\LED Cube\bin\Release\LED Cube.xml
+C:\Users\Thomas.Thomas-PC\documents\visual studio 2010\Projects\LED Cube\LED Cube\obj\x86\Release\LED_Cube.Form1.resources
+C:\Users\Thomas.Thomas-PC\documents\visual studio 2010\Projects\LED Cube\LED Cube\obj\x86\Release\LED_Cube.Resources.resources
+C:\Users\Thomas.Thomas-PC\documents\visual studio 2010\Projects\LED Cube\LED Cube\obj\x86\Release\LED Cube.vbproj.GenerateResource.Cache
+C:\Users\Thomas.Thomas-PC\documents\visual studio 2010\Projects\LED Cube\LED Cube\obj\x86\Release\LED Cube.exe
+C:\Users\Thomas.Thomas-PC\documents\visual studio 2010\Projects\LED Cube\LED Cube\obj\x86\Release\LED Cube.xml
+C:\Users\Thomas.Thomas-PC\documents\visual studio 2010\Projects\LED Cube\LED Cube\obj\x86\Release\LED Cube.pdb
